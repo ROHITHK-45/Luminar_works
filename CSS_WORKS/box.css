@@ -1,0 +1,12 @@
+#a1{
+    color: rgb(167, 122, 129);
+    background-color: lightsteelblue;
+    height: 300px;
+    width: 500px;
+    border: limegreen solid 2px;
+}
+#a2{
+    color: mediumblue;
+    background-color: mediumseagreen;
+    border: mediumvioletred solid 5px;
+}

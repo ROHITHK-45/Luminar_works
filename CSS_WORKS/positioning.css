@@ -1,0 +1,9 @@
+div{
+    width: 200px;
+    height: 100px;
+    background-color: indigo;
+    position: sticky;
+    top: 100px;
+    right: 200px;
+    
+}

@@ -1,0 +1,36 @@
+.full{
+    height: 600px;
+    width: 83%;
+    background-color: lightgray;
+    padding: 20px;
+    margin-left: 125px;
+    display: flex;
+}
+
+
+
+
+.header{
+    height: 218px;
+    width: 99%;
+    background-color:burlywood;
+    padding: 5px;
+    margin-left: 4px;
+    display: flex;
+}
+#img{
+    height: 202px;
+    width: 184px;
+    background-color: white;
+    margin-left: 1px;
+    margin-top: 2px;
+    
+}
+#img1{
+    height: 210px;
+    width: 552px;
+    background-color:burlywood;
+    margin-left: 30px;
+    margin-top: 2px;
+    
+}

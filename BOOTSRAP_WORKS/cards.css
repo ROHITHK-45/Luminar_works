@@ -1,0 +1,47 @@
+.row{
+    height: 600px;
+    width: 100%;
+    background-color: #f5f5f5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:50px
+}
+img{
+    width: 103%;
+    height: 200px;
+    
+}
+#img3{
+    width: 100px;
+    height: 200px;
+    
+}
+
+.card1{
+    height: 500px;
+    
+    background-color:white;
+}
+.card2{
+    height: 500px;
+    width: 100%;
+    background-color:white;
+}
+.card3{
+    height: 500px;
+    width: 100%;
+    background-color:white;
+}
+
+.card-title{
+    color: #5e068a;
+}
+button{
+    background-color: #5e068a;
+    color: white;
+    height: 50px;
+    width: 109px;
+}
+
+

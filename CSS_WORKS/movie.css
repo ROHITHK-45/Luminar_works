@@ -1,0 +1,40 @@
+#parent{
+    height: 792px; 
+    width: 20%;
+    background-color: black;
+    border: solid black 2px;
+    float: left;
+    padding: 20px;
+    
+}
+body{
+    background-color: black;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+#a1{
+    height: 22px;
+    width: 177px;
+    border:solid white 2px;
+    padding-left: 59px;
+    color: white;
+
+}
+div img{
+    width: 260px;
+    height: 300px;
+}
+p{
+    color:white
+
+}
+h3{
+    color:white
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+}

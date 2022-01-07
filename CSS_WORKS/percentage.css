@@ -1,0 +1,13 @@
+div{
+    height: 342px;
+    width: 30%;
+    background-color: blue;
+    border:solid brown 3px;
+    float: left;
+}
+div img{
+    width: 100%;
+}
+img{
+    width: 30%;
+}

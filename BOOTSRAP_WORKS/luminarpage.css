@@ -1,0 +1,54 @@
+h1{
+    color:#5e068a;
+    padding-left: 50px;
+}
+.row{
+    height: 600px;
+    width: 100%;
+    background-color: white;
+}
+span{
+    color: #5e068a99;
+}
+#col{
+    height: 600px;
+    width: 50%;
+    background-color:white;
+    padding: 10px;
+}
+#col1{
+    height: 600px;
+    width: 50%;
+    background-color:white;
+}
+button{
+    background-color: #5e068a;
+    color:white;
+    border-radius: 60px;
+    padding: 20x;
+    margin-left: 47px;
+    height: 52px;
+    width: 117px;
+    
+    
+}
+
+
+#img{
+    height: 464px;
+    width: 52%;
+    margin-left: 100px;
+}
+button:hover{
+    background-color: white;
+    color: #5e068a;
+}
+p{
+    margin-left: 50px;
+}
+
+
+    
+
+
+

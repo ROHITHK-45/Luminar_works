@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Noto+Sans+JP:wght@300&display=swap');
+
+
+#a1{
+    color: coral;
+}
+#a2{
+    color: cornflowerblue;
+}
+#a3{
+    color: coral;
+}
+#a4{
+    color: cornflowerblue;
+}
+#a5{
+    color:darkcyan;
+}
+#a6{
+    color: darkgreen;
+}
+
+
+footer{
+    background-color:lightpink;
+    
+}
+main{
+   background-color: gold;
+}
+header{
+    color: forestgreen;
+}
+p{
+    font-family: 'Fruktur', cursive;    
+}
+ul{
+    font-family: 'Fruktur', cursive;
+}
+ol{
+    font-family: 'Fruktur', cursive;
+}
+footer{
+    font-family: 'Fruktur', cursive;
+}

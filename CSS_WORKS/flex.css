@@ -1,0 +1,28 @@
+.row{
+    width: 101%;
+    height: 700px;
+    background-color:lightslategray;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 70px;
+    
+}
+.column{
+    width: 295px;
+    height: 600px;
+    background-color:lightgrey;
+    border: ridge rgb(19, 224, 231) 10px;
+    }
+div img{
+    height: 304px;
+    width: 295px;
+    
+    
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}

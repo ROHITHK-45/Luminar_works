@@ -1,0 +1,17 @@
+.row{
+    background-color:lightgrey;
+    width: 566px;
+    /* height: 400px; */
+    margin-left: 400px;
+    
+    
+    
+}
+
+#a1{
+    background-color: burlywood;
+}
+button{
+    width: 80px;
+    height: 80px;
+}
